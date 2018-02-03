@@ -1,0 +1,6 @@
+[submodule "PushJet-WebUI"]
+	path = PushJet-WebUI
+	url = git@github.com:RCOS-PushJet/PushJet-WebUI.git
+[submodule "PushJet-Libnotify"]
+	path = PushJet-Libnotify
+	url = git@github.com:RCOS-PushJet/PushJet-Libnotify.git
