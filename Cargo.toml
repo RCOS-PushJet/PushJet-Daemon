@@ -1,0 +1,11 @@
+[package]
+name = "PushJet-Daemon"
+version = "0.1.0"
+authors = ["Luke Biery <luke@bierysbargainbarn.com>"]
+
+[dependencies]
+futures = "0.1"
+hyper = "0.11"
+tokio-core = "0.1"
+hyper-tls = "*"
+uuid = { version = "0.6", features = ["v4"] }
